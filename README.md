@@ -32,7 +32,7 @@ Developed by [Hyeonchu Park](piao429@naver.com)
 
 
 
-
+# Usage
 This project demonstrates a K-Nearest Neighbors (KNN) classifier for the Iris dataset. The application allows users to:
 1. Tune the hyperparameter `k` (number of neighbors).
 2. Evaluate the model's performance (accuracy and balanced accuracy).
