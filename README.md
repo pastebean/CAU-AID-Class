@@ -1,5 +1,8 @@
 
-# KNN Iris Classifier
+# Usage
+1. run script:
+   "python knn_iris_classifier.py"
+2. Enter the number of neighbors("k") when prompted
 
 This project demonstrates a K-Nearest Neighbors (KNN) classifier for the Iris dataset. The application allows users to:
 1. Tune the hyperparameter `k` (number of neighbors).
